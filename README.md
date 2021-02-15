@@ -17,6 +17,7 @@
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on Ethereum. It eliminates trusted intermediaries and unnecessary forms of rent extraction, allowing for fast, efficient trading. Where it makes tradeoffs decentralization, censorship resistance, and security are prioritized.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
@@ -27,6 +28,7 @@
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+Blockchain and Cryptocurrencies, decentralised finance
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
