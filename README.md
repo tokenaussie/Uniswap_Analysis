@@ -1,5 +1,5 @@
 # Week 1 homework added SSH agent 2
-![picture.jpg](/images/picture.jpg)
+![uniswap.jpg](/images/uniswap.jpg)
 
 ## Overview and Origin
 
