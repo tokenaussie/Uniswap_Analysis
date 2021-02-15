@@ -3,7 +3,7 @@
 
 ## Overview and Origin
 
-* Name of company
+* Uniswap
 
 * When was the company incorporated?
 
