@@ -1,15 +1,16 @@
-# Week 1 homework added SSH agent 2
+# Week 1 homework
 ![uniswap.jpg](/images/uniswap.jpg)
 
 ## Overview and Origin
 
-* Uniswap
+* Name of company? Uniswap
 
-* When was the company incorporated?
+* When was the company incorporated? 
 
 * Who are the founders of the company?
 
 * How did the idea for the company (or project) come about?
+
 
 * How is the company funded? How much funding have they received?
 
@@ -17,13 +18,18 @@
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
-Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on Ethereum. It eliminates trusted intermediaries and unnecessary forms of rent extraction, allowing for fast, efficient trading. Where it makes tradeoffs decentralization, censorship resistance, and security are prioritized.
+Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on Ethereum.
+It eliminates the need for trusted intermediaries, prioritising decentralisation, censorship resistance, and security.
+This allows for fast, efficient trading. Where it makes tradeoffs.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Uniswap is an automated liquidity protocol powered by a constant product formula and implemented in a system of non-upgradeable smart contracts on the Ethereum blockchain.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Automated liquidity protocol.
+Ethereum blockchain.
 
 ## Landscape:
 
@@ -31,6 +37,8 @@ Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on Ethere
 Blockchain and Cryptocurrencies, decentralised finance
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+Moving from centralised finance to crypotocurrencies.
+A subset of cryptocurrencies is defi aka decentralised finance.
 
 * What are the other major companies in this domain?
 
