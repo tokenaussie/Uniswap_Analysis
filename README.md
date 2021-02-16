@@ -135,7 +135,7 @@
     | | Uniswap | Sushiswap|
     | :---:   | :-: | :-: |
     | Fees    | 0.3% to LP <sup>8</sup> | 0.25% to LP, 0.5% to Sushi Holders <sup>8</sup> |
-    | Exchange UI | Smoother, cleaner, straightforward [^8] | Izakaya interface novel idea <sup>8</sup> |
+    | Exchange UI | Smoother, cleaner, straightforward <sup>8</sup> | Izakaya interface novel idea <sup>8</sup> |
     | Transparency | High <sup>8</sup> | Questionable <sup>9</sup> |
     | Liquidity as of 16/02/2021 | 4.4B <sup>10</sup> | 3.57B <sup>11</sup>|
     | Volume (24 hour) as of 16/02/2021 | 1.1B <sup>10</sup> | 0.421B <sup>11</sup> |
