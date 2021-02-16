@@ -7,10 +7,10 @@
 
 * When was the company incorporated? 
 
-    2nd Nov 2018, final day of Devcon 4, smart contracts were deployed to the Ethereum mainet. [^1]
+    2nd Nov 2018, final day of Devcon 4, smart contracts were deployed to the Ethereum mainet. <sup>1</sup>
 
 * Who are the founders of the company?
-    1. Hayden Adams [^1]
+    1. Hayden Adams <sup>1</sup>
     2. Karl Floersch
     3. Callil Capuozzo
     4. Uciel Vilchis
@@ -21,17 +21,15 @@
 
 * How did the idea for the company (or project) come about?
 
-    Adams was working as a mechanical engineer at Siemens. On 6th July 2017, he got retrenched. Karl Floersch of Casper FFG at the Ethereum foundatoin, introduced Adams to Ethereum and Smart Contracts. Capuozzo, Adam's friend from elementary school, helped out with the frontend. Vilchils refactored the Uniswap frontend codebase. Daian, Robinson, Milenius, Wang all acted as advisors to Uniswap in one way or another.
-    
-    Vitalik Buterin provided the inspiration to name the company Uniswap instead of Unipeg. [^1]
+    Adams was working as a mechanical engineer at Siemens. On 6th July 2017, he got retrenched. Karl Floersch of Casper FFG at the Ethereum foundatoin, introduced Adams to Ethereum and Smart Contracts. Capuozzo, Adam's friend from elementary school, helped out with the frontend. Vilchils refactored the Uniswap frontend codebase. Daian, Robinson, Milenius, Wang all acted as advisors to Uniswap in one way or another. \Vitalik Buterin provided the inspiration to name the company Uniswap instead of Unipeg. <sup>1</sup>
 
 * How is the company funded? How much funding have they received?
 
-    $100K 'Building for the end user' grant, as a Wave III Finalist from the Ethereum Foundation [^2]
+    $100K 'Building for the end user' grant, as a Wave III Finalist from the Ethereum Foundation <sup>2</sup>
 
-    $1M from Charlie Noyes of Paradign Venture Capital [^3]
+    $1M from Charlie Noyes of Paradign Venture Capital <sup>3</sup>
 
-    $11M on 5th June 2020 from 12 different investors [^4]
+    $11M on 5th June 2020 from 12 different investors <sup>4</sup>
     Andreesen Horowitz
     Union Square Ventures LLC
     Version One
@@ -49,7 +47,7 @@
 
 * Who is the company's intended customer?
 
-    Three types of users: Liquidity providers, traders, developers. [^5]
+    Three types of users: Liquidity providers, traders, developers. <sup>5</sup>
     ![ecosystem.jpg](/images/ecosystem.jpg)
 
 1. **Liquidity providers (LP) are incentivized to contribute ERC-20 tokens to common liquidity pools.**
@@ -77,14 +75,14 @@
 
 * Is there any information about the market size of this set of customers?
 
-    As of 16/02/2021, total liquidity on Uniswap is $4.4B USD [^6]
+    As of 16/02/2021, total liquidity on Uniswap is $4.4B USD <sup>6</sup>
     ![liquidity.jpg](/images/liquidity.jpg)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-    Before Uniswap, Decentralised Exchanges like EtherDelta were inefficient, using orderbooks, as opposed to Uniswaps's Automated Market Maker & Liquidity Pools. [^7]
+    Before Uniswap, Decentralised Exchanges like EtherDelta were inefficient, using orderbooks, as opposed to Uniswaps's Automated Market Maker & Liquidity Pools. <sup>7</sup>
 
-    Uniswap lets retail (as opposed to institutions only) become liquidity providers, enabling them to earn trading fees of 0.3% as well as $UNI token rewards for providing liquidity. [^7]
+    Uniswap lets retail (as opposed to institutions only) become liquidity providers, enabling them to earn trading fees of 0.3% as well as $UNI token rewards for providing liquidity. <sup>7</sup>
 
     For token projects which are not listed on major centralised exchanges (eg Binance), Uniswap is a way for them to create liquidity for their tokens. 
 
@@ -107,7 +105,7 @@
     2. Decentralised Exchanges gaining popularity over centralised exchanges
 
 * What are the other major companies in this domain?
-    1. Sushiswap (forked version of Sushiswap) [^8]
+    1. Sushiswap (forked version of Sushiswap) <sup>8</sup>
     2. Aave
     3. 1inch
     4. Binance
@@ -118,29 +116,29 @@
 
 * What has been the business impact of this company so far?
 
-    It is the biggest single decentralised liquidity source for DEX (Decentralised Exchange) aggregators [^5] and estimated to be the 4th largest cryptocurrency exchange overal by daily traded volume. [^12]
+    It is the biggest single decentralised liquidity source for DEX (Decentralised Exchange) aggregators <sup>5</sup> and estimated to be the 4th largest cryptocurrency exchange overal by daily traded volume. <sup>12</sup>
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
     
     1. **Liquidity**
-    As of 16/02/2021, total liquidity is $4.4B USD [^6]
+    As of 16/02/2021, total liquidity is $4.4B USD <sup>6</sup>
     2. **Volume (24hour)**
-    As of 16/02/2021, Volume (24hour) is $1.1B USD [^6]
+    As of 16/02/2021, Volume (24hour) is $1.1B USD <sup>6</sup>
 
 * How is your company performing relative to competitors in the same domain?
 
     Sushiswap would be considered the main competitor in DEFI.
-    When Sushiswap launched, liquidity of over $1B was transferred from Uniswap to Sushiswap within hours. [^8] However the creator of Sushiswap 'Chef Nomi' sold $14M worth of ETH from a developer fund, leading to community backlash and eventually Nomi returning the funds and control of Sushiswap project back to FTX CEO Sam Bankman-Fried. [^9]
+    When Sushiswap launched, liquidity of over $1B was transferred from Uniswap to Sushiswap within hours. <sup>8</sup> However the creator of Sushiswap 'Chef Nomi' sold $14M worth of ETH from a developer fund, leading to community backlash and eventually Nomi returning the funds and control of Sushiswap project back to FTX CEO Sam Bankman-Fried. <sup>9</sup>
 
-    Uniswap in comparison has a level of transparency & decentralisation higher than that of Sushiswap. Uniswap pays higher fees to LPs, however Sushiswap incentivises Sushi holders. [^8]
+    Uniswap in comparison has a level of transparency & decentralisation higher than that of Sushiswap. Uniswap pays higher fees to LPs, however Sushiswap incentivises Sushi holders. <sup>8</sup>
 
     | | Uniswap | Sushiswap|
     | :---:   | :-: | :-: |
-    | Fees    | 0.3% to LP [^8] | 0.25% to LP, 0.5% to Sushi Holders [^8] |
-    | Exchange UI | Smoother, cleaner, straightforward [^8] | Izakaya interface novel idea [^8] |
-    | Transparency | High [^8] | Questionable [^9] |
-    | Liquidity as of 16/02/2021 | 4.4B [^10] | 3.57B [^11]|
-    | Volume (24 hour) as of 16/02/2021 | 1.1B [^10] | 0.421B [^11] |
+    | Fees    | 0.3% to LP <sup>8</sup> | 0.25% to LP, 0.5% to Sushi Holders <sup>8</sup> |
+    | Exchange UI | Smoother, cleaner, straightforward [^8] | Izakaya interface novel idea <sup>8</sup> |
+    | Transparency | High <sup>8</sup> | Questionable <sup>9</sup> |
+    | Liquidity as of 16/02/2021 | 4.4B <sup>10</sup> | 3.57B <sup>11</sup>|
+    | Volume (24 hour) as of 16/02/2021 | 1.1B <sup>10</sup> | 0.421B <sup>11</sup> |
 
     
 
