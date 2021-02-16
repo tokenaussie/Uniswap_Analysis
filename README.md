@@ -21,7 +21,7 @@
 
 * How did the idea for the company (or project) come about?
 
-    Adams was working as a mechanical engineer at Siemens. On 6th July 2017, he got retrenched. Karl Floersch of Casper FFG at the Ethereum foundatoin, introduced Adams to Ethereum and Smart Contracts. Capuozzo, Adam's friend from elementary school, helped out with the frontend. Vilchils refactored the Uniswap frontend codebase. Daian, Robinson, Milenius, Wang all acted as advisors to Uniswap in one way or another. \Vitalik Buterin provided the inspiration to name the company Uniswap instead of Unipeg. <sup>1</sup>
+    Adams was working as a mechanical engineer at Siemens. On 6th July 2017, he got retrenched. Karl Floersch of Casper FFG at the Ethereum foundatoin, introduced Adams to Ethereum and Smart Contracts. Capuozzo, Adam's friend from elementary school, helped out with the frontend. Vilchils refactored the Uniswap frontend codebase. Daian, Robinson, Milenius, Wang all acted as advisors to Uniswap in one way or another. <\r\n> Vitalik Buterin provided the inspiration to name the company Uniswap instead of Unipeg. <sup>1</sup>
 
 * How is the company funded? How much funding have they received?
 
