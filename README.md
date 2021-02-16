@@ -21,21 +21,21 @@
 
 * How did the idea for the company (or project) come about?
 
-    Adams was working as a mechanical engineer at Siemens. On 6th July 2017, he got retrenched. Karl Floersch of Casper FFG at the Ethereum foundatoin, introduced Adams to Ethereum and Smart Contracts. Capuozzo, Adam's friend from elementary school, helped out with the frontend. Vilchils refactored the Uniswap frontend codebase. Daian, Robinson, Milenius, Wang all acted as advisors to Uniswap in one way or another. <\r\n> Vitalik Buterin provided the inspiration to name the company Uniswap instead of Unipeg. <sup>1</sup>
+    Adams was working as a mechanical engineer at Siemens.  
+    On 6th July 2017, he got retrenched.  
+    Karl Floersch of Casper FFG at the Ethereum foundation, introduced Adams to Ethereum & Smart Contracts. Capuozzo, Adam's friend from elementary school, helped out with the frontend. Vilchils refactored the Uniswap frontend codebase. Daian, Robinson, Milenius, Wang all acted as advisors to Uniswap. Vitalik Buterin provided the inspiration to name the company Uniswap instead of Unipeg. <sup>1</sup>
 
 * How is the company funded? How much funding have they received?
 
-    $100K 'Building for the end user' grant, as a Wave III Finalist from the Ethereum Foundation <sup>2</sup>
-
-    $1M from Charlie Noyes of Paradign Venture Capital <sup>3</sup>
-
-    $11M on 5th June 2020 from 12 different investors <sup>4</sup>
-    Andreesen Horowitz
-    Union Square Ventures LLC
-    Version One
-    Parafi Capital
-    Variant
-    SV Angel
+    $100K 'Building for the end user' grant, as a Wave III Finalist from the Ethereum Foundation <sup>2</sup>  
+    $1M from Charlie Noyes of Paradign Venture Capital <sup>3</sup>  
+    $11M on 5th June 2020 from 12 different investors <sup>4</sup>  
+    Andreesen Horowitz  
+    Union Square Ventures LLC  
+    Version One  
+    Parafi Capital  
+    Variant  
+    SV Angel  
     A. Capital
 
 
@@ -43,7 +43,7 @@
 
 * What specific financial problem is the company or project trying to solve?
 
-    Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on Ethereum. Uniswap eliminates the need for trusted intermediaries, prioritising decentralisation, censorship resistance, and security. This allows for fast, efficient trading.
+    Uniswap is a protocol for creating liquidity and trading ERC-20 tokens on Ethereum. It eliminates the need for trusted intermediaries, prioritising decentralisation, censorship resistance, and security. This allows for fast, efficient trading.
 
 * Who is the company's intended customer?
 
@@ -52,23 +52,23 @@
 
 1. **Liquidity providers (LP) are incentivized to contribute ERC-20 tokens to common liquidity pools.**
 
-    Passive LPs accumulate trading fees
-    Professional LPs focus on market making
-    Token projects become LPs to create liquidity for their tokens, unlocking interoperability with other DEFI projects through Uniswap
-    DEFI pioneers exploring complex liquidity provision interactions like incentivised liquidity, liquidity as collateral
+    Passive LPs accumulate trading fees  
+    Professional LPs focus on market making  
+    Token projects become LPs to create liquidity for their tokens, unlocking interoperability with other DEFI projects through Uniswap  
+    DEFI pioneers exploring complex liquidity provision interactions like incentivised liquidity, liquidity as collateral.
 
 2. **Traders can swap these tokens for one another for a fixed 0.30% fee (which goes to liquidity providers).**
 
-    Speculators swap tokens using liquidity pulled from a Uniswap Protocol
-    Arbitrage bots compare prices across different platforms to find an edge
-    DAPP (Decentralised applications) users buy tokens on Uniswap for use in other applications on Ethereum
+    Speculators swap tokens using liquidity pulled from a Uniswap Protocol  
+    Arbitrage bots compare prices across different platforms to find an edge  
+    DAPP (Decentralised applications) users buy tokens on Uniswap for use in other applications on Ethereum  
     Smart contracts execute trades on the protocol by implementing swap functionality
 
 3. **Developers can integrate directly with Uniswap smart contracts to power new and exciting interactions with tokens, trading interfaces, retail experiences, and more.**
 
-    UX (User Experience) experiments and front-ends
-    Wallets integrate swapping and liquidity provision functionality as a core offering of their product
-    DEX (Decentralised exchanges) aggregators pull liquidity from many liquidity protocols to offer traders the best prices
+    UX (User Experience) experiments and front-ends  
+    Wallets integrate swapping and liquidity provision functionality as a core offering of their product  
+    DEX (Decentralised exchanges) aggregators pull liquidity from many liquidity protocols to offer traders the best prices  
     Smart contract developers invent new DeFi tools and experimental ideas (Unisocks, Zora etc)
 
     In total, interactions between these classes create a positive feedback loop, fueling digital economies by defining a common language through which tokens can be pooled, traded and used.
@@ -80,10 +80,8 @@
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-    Before Uniswap, Decentralised Exchanges like EtherDelta were inefficient, using orderbooks, as opposed to Uniswaps's Automated Market Maker & Liquidity Pools. <sup>7</sup>
-
-    Uniswap lets retail (as opposed to institutions only) become liquidity providers, enabling them to earn trading fees of 0.3% as well as $UNI token rewards for providing liquidity. <sup>7</sup>
-
+    Before Uniswap, Decentralised Exchanges like EtherDelta were inefficient, using orderbooks, as opposed to Uniswaps's Automated Market Maker & Liquidity Pools. <sup>7</sup>  
+    Uniswap allows retail investors/traders (as opposed to institutions only) become liquidity providers, enabling them to earn trading fees of 0.3%, as well as $UNI token rewards for providing liquidity. <sup>7</sup>  
     For token projects which are not listed on major centralised exchanges (eg Binance), Uniswap is a way for them to create liquidity for their tokens. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
@@ -102,10 +100,10 @@
 * What have been the major trends and innovations of this domain over the last 5-10 years?
     
     1. Moving from traditional centralised finance to crypotocurrencies.
-    2. Decentralised Exchanges gaining popularity over centralised exchanges
+    2. Decentralised Crypto Exchanges gaining popularity over centralised Crypto exchanges
 
 * What are the other major companies in this domain?
-    1. Sushiswap (forked version of Sushiswap) <sup>8</sup>
+    1. SushiSwap (forked version of Uniswap) <sup>8</sup>
     2. Aave
     3. 1inch
     4. Binance
@@ -146,8 +144,7 @@
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-    Decentralised Exchanges are still an extremely niche market in Cryptocurrency & Blockchain. It is a subset within a subset, and is hard to understand for the general population. More awareness needs to be provided in order to facilitate uptake by people with knowledge in cryptocurrency, but not necessarily DEFI.
-
+    Decentralised Exchanges are still an extremely niche market in Cryptocurrency & Blockchain. It is a subset within a subset, and is hard to understand for the general population. More awareness needs to be provided in order to facilitate uptake by people with knowledge in cryptocurrency, but not necessarily DEFI  
     It will be a big challenge to uptake people who have no experience with cryptocurrency, or DEFI. In this instance, perhaps partnering with a mobile app would work. For example partnering with Uber. People could pay with $UNI tokens for instance, and that gets them interested in the Uniswap platform. This idea might or might not work, but it is a start.
 
 * Why do you think that offering this product or service would benefit the company?
@@ -156,10 +153,10 @@
 
 * What technologies would this additional product or service utilize?
 
-    Mobile Pyaments
-    Blockchain
-    Cryptocurrency
-    Coding
+    Mobile Pyaments  
+    Blockchain  
+    Cryptocurrency  
+    Coding  
     UX/UI of the Uber app
 
 * Why are these technologies appropriate for your solution?
@@ -174,7 +171,7 @@
 5. https://uniswap.org/docs/v2/protocol-overview/ecosystem-participants/
 6. https://uniswap.org/about
 7. https://cryptotesters.com/blog/what-is-uniswap
-8. [Shrimpy](https://blog.shrimpy.io/blog/uniswap-vs-sushiswap#:~:text=SushiSwap%20rewards%20liquidity%20providers%20with,as%20high%20as%2080%25%20APY)
+8. https://blog.shrimpy.io/blog/uniswap-vs-sushiswap#:~:text=SushiSwap%20rewards%20liquidity%20providers%20with,as%20high%20as%2080%25%20APY
 9. https://www.coindesk.com/sushiswap-creator-chef-nomi-returns-dev-fund
 10. https://info.uniswap.org/home
 11. https://sushiswap.vision/home
